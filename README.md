@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bonjour, je suis Hugo ! 👋
 
-<!--
-**Abaeos-Hugo/Abaeos-Hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur chez Pasol Interactive, une agence de communication dynamique et innovante. Voici quelques informations sur moi et mon travail :
 
-Here are some ideas to get you started:
+- 🔭 Actuellement, je travaille sur divers projets web, API et applications (SaaS ou autres).
+- 🌱 J'utilise des outils comme Webflow, Framer, et bien d'autres pour créer des expériences utilisateur inoubliables.
+- 👨‍💻 Je code principalement en HTML, CSS, JavaScript, TypeScript, Node.js, React, Vue.js et d'autres langages similaires.
+- 🇫🇷 Je suis français et je m'efforce de toujours offrir des solutions de haute qualité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## À propos de Pasol Interactive
+
+Pasol Interactive est une agence de communication spécialisée dans la création de solutions digitales sur mesure. Nous nous efforçons de fournir des services de haute qualité à nos clients, allant du développement web à la création d'applications et d'APIs. Notre équipe est composée de professionnels passionnés et dévoués qui travaillent ensemble pour transformer les idées en réalité.
+
+## Mes compétences
+
+- **Front-end Development**: HTML, CSS, JavaScript, TypeScript, React, Vue.js
+- **Back-end Development**: Node.js, Express
+- **Outils de conception et développement**: Webflow, Framer
+- **Gestion de projets**: Méthodologies Agile, Scrum
+
+## Statistiques GitHub
+
+![Statistiques GitHub d'Hugo](https://github-readme-stats.vercel.app/api?username=Abaeos-Hugo&show_icons=true&theme=radical)
+
+## Langages les plus utilisés
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abaeos-Hugo&layout=compact&theme=radical)
